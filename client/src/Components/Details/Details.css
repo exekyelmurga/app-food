@@ -1,0 +1,64 @@
+.componente {
+    background-image: url('https://previews.123rf.com/images/katrinarefur/katrinarefur1703/katrinarefur170300002/74293510-patr%C3%B3n-de-vector-con-comida-sana-sonriendo-papel-pintado-de-colores-alimentos-crudos-sobre-fondo-ver.jpg');
+    height: auto;
+}
+.name-detail-db{
+    background-color:  rgba(240, 253, 255, 0.747);
+    position: relative;
+    width: 50%;
+    left: 170px;
+    border-radius: 10px;
+    top: 5px;
+}
+.img-detail {
+    width: 75%;
+    height: 100%;
+    position: relative;
+    border-radius: 10px;   
+    top: 10px;
+}
+
+.img-detail-db {
+    width: 40%;
+    /* height: 50%; */
+    position: relative;
+    border-radius: 10px;
+    top: 10px;
+}
+
+.bottom-card-db {
+    background-color: rgba(240, 253, 255, 0.829);
+    width: 50%;
+    height: auto;
+    position: relative;
+    border-radius: 10px;
+    left: 320px;
+    align-items: center;
+    top: 10px;
+}
+
+.bottom-card {
+    background-color: rgba(240, 253, 255, 0.829);
+    width: 50%;
+    height: auto;
+    position: relative;
+    border-radius: 10px;
+    left: 307px;
+    align-items: center;
+    top: 10px;
+    margin: 10px;
+}
+
+.name-detail {
+    background-color:  rgba(240, 253, 255, 0.747);
+    position: relative;
+    width: 50%;
+    left: 155px;
+    border-radius: 10px;
+    top: 5px;
+}
+
+.button-back {
+    border-radius: 5px;
+    margin: 10px;
+}

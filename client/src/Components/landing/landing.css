@@ -1,0 +1,62 @@
+
+.allLand{
+    width: 100%;
+    position: fixed;
+}
+#fondo{
+    width: 100%;
+    height: 615px;
+    position: relative;
+    bottom: 23px;
+}
+#barra{
+    background: rgba(6, 57, 70, 0.76);
+    position: relative;
+    bottom: 23px;
+}
+
+#foods{
+    position: relative;
+    top: 20px;
+}
+.homeButton{
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+    background: black;
+    height: 50px;
+    width: 100px;
+    bottom: 480px;
+}
+
+.addButton{
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+    background: black;
+    height: 50px;
+    width: 100px;
+    bottom: 480px;
+}
+
+#start{
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+    background: black;
+    height: 50px;
+    width: 100px;
+    position: relative;
+    bottom: 480px;
+}
+
+#start:hover{
+    background-color:rgb(8, 98, 98);
+}
+
+.intro{
+    color: hwb(0 0% 100%);
+    position: relative;
+    bottom: 500px;
+    
+}
